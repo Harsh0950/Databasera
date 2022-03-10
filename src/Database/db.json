@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Harsh Rana",
+      "username": "harsh",
+      "email": "harsh@gmail.com",
+      "phone": "9123456779",
+      "id": 1
+    },
+    {
+      "name": "Bhavya Goel",
+      "username": "bhavya",
+      "email": "bhavya@gmail.com",
+      "phone": "9876542831",
+      "id": 2
+    },
+    {
+      "name": "Suraj Reddy",
+      "username": "surajJi",
+      "email": "suraj@gmail.com",
+      "phone": "7654329616",
+      "id": 3
+    },
+    {
+      "name": "Tushar Mahajan",
+      "username": "Tushar",
+      "email": "tushar@gmail.com",
+      "phone": "8754346740",
+      "id": 4
+    },
+    {
+      "name": "Shubham",
+      "username": "tinku",
+      "email": "tinku@gmail.com",
+      "phone": "6541829352",
+      "id": 5
+    }
+  ]
+}
